@@ -1,4 +1,4 @@
-# Updated_swimmer_registration
+# Swimmer Registration Program
 
 This program is an updated version of my swimmer_registration.py.
 
